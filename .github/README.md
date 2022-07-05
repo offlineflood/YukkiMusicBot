@@ -10,6 +10,11 @@
 * Multi-Language support
 
 
+<b>HEROKU'LA DAĞIDIN</b>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/offlineflood/YukkiMusicBot.git)
+
+
+
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
